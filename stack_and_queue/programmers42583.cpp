@@ -2,6 +2,8 @@
 #include <vector>
 #include <queue>
 
+//다리를 지나는 트럭 문제
+
 using namespace std;
 
 int solution(int bridge_length, int weight, vector<int> truck_weights) {
